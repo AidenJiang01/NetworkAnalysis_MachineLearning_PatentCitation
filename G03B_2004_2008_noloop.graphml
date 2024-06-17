@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="directed"><node id="ASML"/>
+<node id="NIKON "/>
+<node id="CANON"/>
+<node id="ADTEC"/>
+<node id="GLOBALFOUNDRIES "/>
+<node id="TOSHIBA MEMORY "/>
+<node id="TEXAS INSTRUMENTS"/>
+<node id="SEIKO EPSON "/>
+<node id="SHARP NEC DISPLAY"/>
+<node id="SAMSUNG ELECTRONICS "/>
+<node id="SANYO ELECTRIC "/>
+<node id="MAXELL"/>
+<node id="CORETRONIC "/>
+<node id="DOLBY LABORATORIES  "/>
+<node id="CASIO"/>
+<node id="OM DIGITAL"/>
+<node id="FUJIFILM "/>
+<node id="JVC KENWOOD "/>
+<node id="CARL ZEISS"/>
+<node id="CHAPMAN/LEONARD"/>
+<node id="JPMORGAN CHASE"/>
+<node id="GOPRO"/>
+<node id="HEWLETT-PACKARD"/>
+<node id="BENQ "/>
+<node id="BARCO"/>
+<node id="SONY "/>
+<node id="OLYMPUS "/>
+<node id="RICOH"/>
+<node id="PENTAX RICOH IMAGING"/>
+<node id="NOKIA"/>
+<node id="REALLY RIGHT STUFF"/>
+<node id="LG"/>
+<node id="MITSUBISHI ELECTRIC "/>
+<node id="MOTOROLA"/>
+<node id="NEC "/>
+<node id="SAMSUNG DISPLAY"/>
+<node id="BANK OF AMERICA"/>
+<node id="YOUNG OPTICS "/>
+<node id="3M"/>
+<node id="AGFA"/>
+<node id="DISNEY"/>
+<node id="BOEING "/>
+<node id="CHRISTIE DIGITAL SYSTEMS"/>
+<node id="CITICORP"/>
+<node id="MATSUSHITA ELECTRIC"/>
+<node id="LAB PARTNERS ASSOCIATES"/>
+<node id="MICRON "/>
+<node id="MICROSOFT"/>
+<node id="KONICA MINOLTA OPTO"/>
+<node id="HON HAI"/>
+<node id="DRAPER"/>
+<edge source="ASML" target="NIKON ">
+  <data key="d0">2</data>
+</edge>
+<edge source="ASML" target="CANON">
+  <data key="d0">1</data>
+</edge>
+<edge source="ASML" target="ADTEC">
+  <data key="d0">2</data>
+</edge>
+<edge source="ASML" target="GLOBALFOUNDRIES ">
+  <data key="d0">2</data>
+</edge>
+<edge source="ASML" target="TOSHIBA MEMORY ">
+  <data key="d0">2</data>
+</edge>
+<edge source="NIKON " target="ASML">
+  <data key="d0">8</data>
+</edge>
+<edge source="NIKON " target="TEXAS INSTRUMENTS">
+  <data key="d0">1</data>
+</edge>
+<edge source="NIKON " target="GLOBALFOUNDRIES ">
+  <data key="d0">2</data>
+</edge>
+<edge source="NIKON " target="TOSHIBA MEMORY ">
+  <data key="d0">1</data>
+</edge>
+<edge source="CANON" target="ASML">
+  <data key="d0">1</data>
+</edge>
+<edge source="CANON" target="FUJIFILM ">
+  <data key="d0">1</data>
+</edge>
+<edge source="CANON" target="JVC KENWOOD ">
+  <data key="d0">1</data>
+</edge>
+<edge source="GLOBALFOUNDRIES " target="ASML">
+  <data key="d0">1</data>
+</edge>
+<edge source="TEXAS INSTRUMENTS" target="BARCO">
+  <data key="d0">1</data>
+</edge>
+<edge source="TEXAS INSTRUMENTS" target="JVC KENWOOD ">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON " target="SHARP NEC DISPLAY">
+  <data key="d0">4</data>
+</edge>
+<edge source="SEIKO EPSON " target="SAMSUNG ELECTRONICS ">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON " target="SANYO ELECTRIC ">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON " target="MAXELL">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON " target="TEXAS INSTRUMENTS">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON " target="CORETRONIC ">
+  <data key="d0">2</data>
+</edge>
+<edge source="SHARP NEC DISPLAY" target="CASIO">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHARP NEC DISPLAY" target="CANON">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS " target="NIKON ">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS " target="CARL ZEISS">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS " target="MAXELL">
+  <data key="d0">2</data>
+</edge>
+<edge source="SANYO ELECTRIC " target="CANON">
+  <data key="d0">1</data>
+</edge>
+<edge source="SANYO ELECTRIC " target="MAXELL">
+  <data key="d0">1</data>
+</edge>
+<edge source="MAXELL" target="SEIKO EPSON ">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC " target="SANYO ELECTRIC ">
+  <data key="d0">1</data>
+</edge>
+<edge source="DOLBY LABORATORIES  " target="TEXAS INSTRUMENTS">
+  <data key="d0">4</data>
+</edge>
+<edge source="CASIO" target="SHARP NEC DISPLAY">
+  <data key="d0">8</data>
+</edge>
+<edge source="CASIO" target="CANON">
+  <data key="d0">3</data>
+</edge>
+<edge source="CASIO" target="OM DIGITAL">
+  <data key="d0">1</data>
+</edge>
+<edge source="OM DIGITAL" target="RICOH">
+  <data key="d0">1</data>
+</edge>
+<edge source="CARL ZEISS" target="ASML">
+  <data key="d0">3</data>
+</edge>
+<edge source="CARL ZEISS" target="NIKON ">
+  <data key="d0">1</data>
+</edge>
+<edge source="HEWLETT-PACKARD" target="SEIKO EPSON ">
+  <data key="d0">2</data>
+</edge>
+<edge source="HEWLETT-PACKARD" target="SHARP NEC DISPLAY">
+  <data key="d0">1</data>
+</edge>
+<edge source="BENQ " target="SEIKO EPSON ">
+  <data key="d0">1</data>
+</edge>
+<edge source="BENQ " target="SHARP NEC DISPLAY">
+  <data key="d0">1</data>
+</edge>
+<edge source="SONY " target="MAXELL">
+  <data key="d0">2</data>
+</edge>
+<edge source="OLYMPUS " target="OM DIGITAL">
+  <data key="d0">1</data>
+</edge>
+<edge source="OLYMPUS " target="RICOH">
+  <data key="d0">1</data>
+</edge>
+<edge source="NOKIA" target="ASML">
+  <data key="d0">2</data>
+</edge>
+<edge source="LG" target="SEIKO EPSON ">
+  <data key="d0">2</data>
+</edge>
+<edge source="MOTOROLA" target="SONY ">
+  <data key="d0">1</data>
+</edge>
+<edge source="NEC " target="SHARP NEC DISPLAY">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG DISPLAY" target="ASML">
+  <data key="d0">1</data>
+</edge>
+<edge source="YOUNG OPTICS " target="TEXAS INSTRUMENTS">
+  <data key="d0">1</data>
+</edge>
+<edge source="3M" target="SEIKO EPSON ">
+  <data key="d0">1</data>
+</edge>
+<edge source="DISNEY" target="BOEING ">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHRISTIE DIGITAL SYSTEMS" target="SEIKO EPSON ">
+  <data key="d0">1</data>
+</edge>
+<edge source="CITICORP" target="CANON">
+  <data key="d0">1</data>
+</edge>
+<edge source="MATSUSHITA ELECTRIC" target="MAXELL">
+  <data key="d0">1</data>
+</edge>
+<edge source="KONICA MINOLTA OPTO" target="AGFA">
+  <data key="d0">1</data>
+</edge>
+<edge source="HON HAI" target="MATSUSHITA ELECTRIC">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

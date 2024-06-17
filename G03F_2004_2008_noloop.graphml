@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="directed"><node id="TOKYO OHKA KOGYO CO., LTD."/>
+<node id="FUJIFILM CORPORATION"/>
+<node id="GLOBALFOUNDRIES INC."/>
+<node id="SHIN-ETSU CHEMICAL CO, LTD."/>
+<node id="TOSHIBA MEMORY CORPORATION"/>
+<node id="CITIBANK, N.A."/>
+<node id="JSR CORPORATION"/>
+<node id="INTERNATIONAL BUSINESS MACHINES CORPORATION"/>
+<node id="HITACHI, LTD."/>
+<node id="SAMSUNG DISPLAY CO. LTD."/>
+<node id="SAMSUNG ELECTRONICS CO., LTD."/>
+<node id="MERCK ELECTRONIC MATERIALS LTD."/>
+<node id="TORAY INDUSTRIES, INC."/>
+<node id="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD."/>
+<node id="UNITED MICROELECTRONICS CORP."/>
+<node id="ALTER DOMUS (US) LLC"/>
+<node id="ASML NETHERLANDS B.V."/>
+<node id="Canon Kabushiki Kaisha"/>
+<node id="RENESAS ELECTRONICS CORPORATION"/>
+<node id="LG DISPLAY CO., LTD."/>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">3</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="GLOBALFOUNDRIES INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="GLOBALFOUNDRIES INC." target="JSR CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="GLOBALFOUNDRIES INC." target="INTERNATIONAL BUSINESS MACHINES CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">3</data>
+</edge>
+<edge source="JSR CORPORATION" target="INTERNATIONAL BUSINESS MACHINES CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="HITACHI, LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TORAY INDUSTRIES, INC." target="FUJIFILM CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">2</data>
+</edge>
+</graph></graphml>

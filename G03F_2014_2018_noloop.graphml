@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="directed"><node id="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD."/>
+<node id="SHIN-ETSU CHEMICAL CO, LTD."/>
+<node id="FUJIFILM CORPORATION"/>
+<node id="JSR CORPORATION"/>
+<node id="ROHM AND HAAS ELECTRONIC MATERIALS LLC"/>
+<node id="SAMSUNG ELECTRONICS CO., LTD."/>
+<node id="HOYA CORPORATION"/>
+<node id="MERCK ELECTRONIC MATERIALS LTD."/>
+<node id="INTEL CORPORATION"/>
+<node id="TOKYO OHKA KOGYO CO., LTD."/>
+<node id="GLOBALFOUNDRIES INC."/>
+<node id="SUMITOMO CHEMICAL COMPANY, LIMITED"/>
+<node id="NISSAN CHEMICAL INDUSTRIES, LTD."/>
+<node id="International Business Machines Corporation"/>
+<node id="AZ ELECTRONIC MATERIALS S.À R.L."/>
+<node id="CHEIL INDUSTRIES INC."/>
+<node id="HITACHI, LTD."/>
+<node id="D2S, Inc."/>
+<node id="ASML NETHERLANDS B.V."/>
+<node id="CARL ZEISS SMT GMBH"/>
+<node id="Canon Kabushiki Kaisha"/>
+<node id="NIKON CORPORATION"/>
+<node id="SK HYNIX INC."/>
+<node id="LG CHEM, LTD."/>
+<node id="APPLIED MATERIALS, INC"/>
+<node id="TOKYO ELECTRON LIMITED"/>
+<node id="AGC INC."/>
+<node id="TOSHIBA MEMORY CORPORATION"/>
+<node id="SAMSUNG DISPLAY CO. LTD."/>
+<node id="FUJITSU LIMITED"/>
+<node id="BOE TECHNOLOGY GROUP CO., LTD."/>
+<node id="SHOWA DENKO MATERIALS CO., LTD."/>
+<node id="ALTER DOMUS (US) LLC"/>
+<node id="UNITED MICROELECTRONICS CORP."/>
+<node id="RENESAS ELECTRONICS CORPORATION"/>
+<node id="TORAY INDUSTRIES, INC."/>
+<node id="MICRON TECHNOLOGY, INC."/>
+<node id="KLA-TENCOR CORPORATION"/>
+<node id="CITIBANK, N.A."/>
+<node id="SHENZHEN CHINA STAR OPTOELECTRONICS SEMICONDUCTOR DISPLAY TECHNOLOGY CO., LTD."/>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">5</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="JSR CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="SAMSUNG ELECTRONICS CO., LTD.">
+  <data key="d0">3</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="HOYA CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD." target="INTEL CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">3</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">9</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="JSR CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">12</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="GLOBALFOUNDRIES INC.">
+  <data key="d0">4</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="SUMITOMO CHEMICAL COMPANY, LIMITED">
+  <data key="d0">5</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="HOYA CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="International Business Machines Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="AZ ELECTRONIC MATERIALS S.À R.L.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="CHEIL INDUSTRIES INC.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SHIN-ETSU CHEMICAL CO, LTD." target="HITACHI, LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">4</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="JSR CORPORATION">
+  <data key="d0">4</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">7</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">21</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="SUMITOMO CHEMICAL COMPANY, LIMITED">
+  <data key="d0">4</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="HOYA CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="HITACHI, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="JSR CORPORATION" target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">16</data>
+</edge>
+<edge source="JSR CORPORATION" target="FUJIFILM CORPORATION">
+  <data key="d0">7</data>
+</edge>
+<edge source="JSR CORPORATION" target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">5</data>
+</edge>
+<edge source="JSR CORPORATION" target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">5</data>
+</edge>
+<edge source="JSR CORPORATION" target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="JSR CORPORATION" target="CHEIL INDUSTRIES INC.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ROHM AND HAAS ELECTRONIC MATERIALS LLC" target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="ROHM AND HAAS ELECTRONIC MATERIALS LLC" target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">3</data>
+</edge>
+<edge source="ROHM AND HAAS ELECTRONIC MATERIALS LLC" target="JSR CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="ROHM AND HAAS ELECTRONIC MATERIALS LLC" target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">4</data>
+</edge>
+<edge source="ROHM AND HAAS ELECTRONIC MATERIALS LLC" target="SUMITOMO CHEMICAL COMPANY, LIMITED">
+  <data key="d0">2</data>
+</edge>
+<edge source="ROHM AND HAAS ELECTRONIC MATERIALS LLC" target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">3</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">6</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="D2S, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="GLOBALFOUNDRIES INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="International Business Machines Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="CHEIL INDUSTRIES INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="SK HYNIX INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SAMSUNG ELECTRONICS CO., LTD." target="LG CHEM, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="HOYA CORPORATION" target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">6</data>
+</edge>
+<edge source="HOYA CORPORATION" target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="HOYA CORPORATION" target="AGC INC.">
+  <data key="d0">2</data>
+</edge>
+<edge source="MERCK ELECTRONIC MATERIALS LTD." target="TORAY INDUSTRIES, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">4</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">4</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="JSR CORPORATION">
+  <data key="d0">3</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="SAMSUNG ELECTRONICS CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="AZ ELECTRONIC MATERIALS S.À R.L.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO OHKA KOGYO CO., LTD." target="Canon Kabushiki Kaisha">
+  <data key="d0">1</data>
+</edge>
+<edge source="GLOBALFOUNDRIES INC." target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="GLOBALFOUNDRIES INC." target="HOYA CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUMITOMO CHEMICAL COMPANY, LIMITED" target="FUJIFILM CORPORATION">
+  <data key="d0">6</data>
+</edge>
+<edge source="SUMITOMO CHEMICAL COMPANY, LIMITED" target="JSR CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SUMITOMO CHEMICAL COMPANY, LIMITED" target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">2</data>
+</edge>
+<edge source="SUMITOMO CHEMICAL COMPANY, LIMITED" target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="NISSAN CHEMICAL INDUSTRIES, LTD." target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">6</data>
+</edge>
+<edge source="NISSAN CHEMICAL INDUSTRIES, LTD." target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">5</data>
+</edge>
+<edge source="NISSAN CHEMICAL INDUSTRIES, LTD." target="JSR CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="NISSAN CHEMICAL INDUSTRIES, LTD." target="HOYA CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="International Business Machines Corporation" target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="International Business Machines Corporation" target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="International Business Machines Corporation" target="FUJIFILM CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="International Business Machines Corporation" target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="International Business Machines Corporation" target="GLOBALFOUNDRIES INC.">
+  <data key="d0">5</data>
+</edge>
+<edge source="International Business Machines Corporation" target="TOSHIBA MEMORY CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="AZ ELECTRONIC MATERIALS S.À R.L." target="ASML NETHERLANDS B.V.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AZ ELECTRONIC MATERIALS S.À R.L." target="SAMSUNG DISPLAY CO. LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AZ ELECTRONIC MATERIALS S.À R.L." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="AZ ELECTRONIC MATERIALS S.À R.L." target="LG CHEM, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="AZ ELECTRONIC MATERIALS S.À R.L." target="FUJITSU LIMITED">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHEIL INDUSTRIES INC." target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CHEIL INDUSTRIES INC." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ASML NETHERLANDS B.V." target="GLOBALFOUNDRIES INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="ASML NETHERLANDS B.V." target="CARL ZEISS SMT GMBH">
+  <data key="d0">1</data>
+</edge>
+<edge source="ASML NETHERLANDS B.V." target="Canon Kabushiki Kaisha">
+  <data key="d0">1</data>
+</edge>
+<edge source="ASML NETHERLANDS B.V." target="NIKON CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="CARL ZEISS SMT GMBH" target="ASML NETHERLANDS B.V.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SK HYNIX INC." target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">3</data>
+</edge>
+<edge source="APPLIED MATERIALS, INC" target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">5</data>
+</edge>
+<edge source="APPLIED MATERIALS, INC" target="SK HYNIX INC.">
+  <data key="d0">5</data>
+</edge>
+<edge source="TOKYO ELECTRON LIMITED" target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO ELECTRON LIMITED" target="FUJIFILM CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO ELECTRON LIMITED" target="ROHM AND HAAS ELECTRONIC MATERIALS LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO ELECTRON LIMITED" target="TOKYO OHKA KOGYO CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOKYO ELECTRON LIMITED" target="SK HYNIX INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOSHIBA MEMORY CORPORATION" target="TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOSHIBA MEMORY CORPORATION" target="GLOBALFOUNDRIES INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="TOSHIBA MEMORY CORPORATION" target="TOKYO ELECTRON LIMITED">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG DISPLAY CO. LTD." target="SHIN-ETSU CHEMICAL CO, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG DISPLAY CO. LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG DISPLAY CO. LTD." target="SAMSUNG ELECTRONICS CO., LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="SAMSUNG DISPLAY CO. LTD." target="CHEIL INDUSTRIES INC.">
+  <data key="d0">2</data>
+</edge>
+<edge source="FUJITSU LIMITED" target="TORAY INDUSTRIES, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BOE TECHNOLOGY GROUP CO., LTD." target="FUJIFILM CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="BOE TECHNOLOGY GROUP CO., LTD." target="NISSAN CHEMICAL INDUSTRIES, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BOE TECHNOLOGY GROUP CO., LTD." target="SAMSUNG DISPLAY CO. LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BOE TECHNOLOGY GROUP CO., LTD." target="TOSHIBA MEMORY CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="BOE TECHNOLOGY GROUP CO., LTD." target="SHOWA DENKO MATERIALS CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="BOE TECHNOLOGY GROUP CO., LTD." target="MERCK ELECTRONIC MATERIALS LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SHOWA DENKO MATERIALS CO., LTD." target="LG CHEM, LTD.">
+  <data key="d0">3</data>
+</edge>
+<edge source="UNITED MICROELECTRONICS CORP." target="ASML NETHERLANDS B.V.">
+  <data key="d0">1</data>
+</edge>
+<edge source="UNITED MICROELECTRONICS CORP." target="SK HYNIX INC.">
+  <data key="d0">2</data>
+</edge>
+</graph></graphml>

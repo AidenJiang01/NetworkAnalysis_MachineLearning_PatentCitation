@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="directed"><node id="SEIKO EPSON CORPORATION"/>
+<node id="CORETRONIC CORPORATION"/>
+<node id="CANON KABUSHIKI KAISHA"/>
+<node id="FUJIFILM CORPORATION"/>
+<node id="SONY CORPORATION"/>
+<node id="PANASONIC CORPORATION"/>
+<node id="RICOH COMPANY, LTD."/>
+<node id="MAXELL, LTD."/>
+<node id="APPOTRONICS CORPORATION LIMITED"/>
+<node id="CASIO COMPUTER CO., LTD."/>
+<node id="KONICA MINOLTA OPTO, INC."/>
+<node id="HISENSE LASER DISPLAY CO., LTD."/>
+<node id="DELTA ELECTRONICS, INC."/>
+<node id="SHARP NEC DISPLAY SOLUTIONS, LTD."/>
+<node id="YOUNG OPTICS INC."/>
+<node id="JPMORGAN CHASE BANK, N.A."/>
+<node id="SZ DJI TECHNOLOGY CO., LTD."/>
+<node id="SAMSUNG ELECTRONICS CO., LTD."/>
+<node id="ASML NETHERLANDS B.V."/>
+<node id="REALLY RIGHT STUFF, LLC"/>
+<node id="BENQ CORPORATION"/>
+<node id="GOPRO, INC."/>
+<node id="NIKON CORPORATION"/>
+<node id="QISDA CORPORATION"/>
+<node id="BARCO N.V."/>
+<node id="DOLBY LABORATORIES LICENSING CORPORATION"/>
+<node id="SAMSUNG ELECTRO-MECHANICS CO., LTD."/>
+<node id="LG ELECTRONICS INC."/>
+<node id="KYOCERA CORPORATION"/>
+<node id="CARL ZEISS SMT GMBH"/>
+<node id="APPLE INC."/>
+<node id="QUALCOMM INCORPORATED"/>
+<node id="TDK TAIWAN CORP."/>
+<node id="GOOGLE LLC"/>
+<node id="LAB PARTNERS ASSOCIATES, INC."/>
+<node id="APPLIED MATERIALS, INC."/>
+<node id="TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY, LTD."/>
+<node id="CHAPMAN/LEONARD STUDIO EQUIPMENT, INC."/>
+<node id="HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P."/>
+<node id="DAI NIPPON PRINTING CO., LTD."/>
+<node id="DENSO CORPORATION"/>
+<node id="DRAPER, INC."/>
+<edge source="SEIKO EPSON CORPORATION" target="CORETRONIC CORPORATION">
+  <data key="d0">8</data>
+</edge>
+<edge source="SEIKO EPSON CORPORATION" target="CANON KABUSHIKI KAISHA">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON CORPORATION" target="FUJIFILM CORPORATION">
+  <data key="d0">8</data>
+</edge>
+<edge source="SEIKO EPSON CORPORATION" target="SONY CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON CORPORATION" target="PANASONIC CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON CORPORATION" target="RICOH COMPANY, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SEIKO EPSON CORPORATION" target="MAXELL, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="SEIKO EPSON CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="CANON KABUSHIKI KAISHA">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="APPOTRONICS CORPORATION LIMITED">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="CASIO COMPUTER CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="PANASONIC CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="KONICA MINOLTA OPTO, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="HISENSE LASER DISPLAY CO., LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="DELTA ELECTRONICS, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="SHARP NEC DISPLAY SOLUTIONS, LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="YOUNG OPTICS INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CORETRONIC CORPORATION" target="JPMORGAN CHASE BANK, N.A.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CANON KABUSHIKI KAISHA" target="SEIKO EPSON CORPORATION">
+  <data key="d0">4</data>
+</edge>
+<edge source="CANON KABUSHIKI KAISHA" target="SZ DJI TECHNOLOGY CO., LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CANON KABUSHIKI KAISHA" target="SONY CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="CANON KABUSHIKI KAISHA" target="KONICA MINOLTA OPTO, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="SEIKO EPSON CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="CORETRONIC CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="FUJIFILM CORPORATION" target="PANASONIC CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="SONY CORPORATION" target="SEIKO EPSON CORPORATION">
+  <data key="d0">2</data>
+</edge>
+<edge source="SONY CORPORATION" target="CORETRONIC CORPORATION">
+  <data key="d0">3</data>
+</edge>
+<edge source="SONY CORPORATION" target="APPOTRONICS CORPORATION LIMITED">
+  <data key="d0">1</data>
+</edge>
+<edge source="PANASONIC CORPORATION" target="SEIKO EPSON CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="PANASONIC CORPORATION" target="DELTA ELECTRONICS, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="RICOH COMPANY, LTD." target="LG ELECTRONICS INC.">
+  <data key="d0">2</data>
+</edge>
+<edge source="APPOTRONICS CORPORATION LIMITED" target="CORETRONIC CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="APPOTRONICS CORPORATION LIMITED" target="BENQ CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="APPOTRONICS CORPORATION LIMITED" target="DELTA ELECTRONICS, INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="CASIO COMPUTER CO., LTD." target="HISENSE LASER DISPLAY CO., LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="KONICA MINOLTA OPTO, INC." target="FUJIFILM CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="KONICA MINOLTA OPTO, INC." target="SONY CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="DELTA ELECTRONICS, INC." target="CANON KABUSHIKI KAISHA">
+  <data key="d0">1</data>
+</edge>
+<edge source="SZ DJI TECHNOLOGY CO., LTD." target="SAMSUNG ELECTRONICS CO., LTD.">
+  <data key="d0">2</data>
+</edge>
+<edge source="BENQ CORPORATION" target="CORETRONIC CORPORATION">
+  <data key="d0">1</data>
+</edge>
+<edge source="QISDA CORPORATION" target="PANASONIC CORPORATION">
+  <data key="d0">3</data>
+</edge>
+<edge source="QISDA CORPORATION" target="BARCO N.V.">
+  <data key="d0">1</data>
+</edge>
+<edge source="QISDA CORPORATION" target="SHARP NEC DISPLAY SOLUTIONS, LTD.">
+  <data key="d0">1</data>
+</edge>
+<edge source="SAMSUNG ELECTRO-MECHANICS CO., LTD." target="LG ELECTRONICS INC.">
+  <data key="d0">1</data>
+</edge>
+<edge source="LG ELECTRONICS INC." target="APPLE INC.">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
